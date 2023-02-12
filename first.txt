@@ -4,3 +4,4 @@ hougehoge
 
 kkk
 git rm
+git status
