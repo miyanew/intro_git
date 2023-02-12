@@ -3,3 +3,4 @@ Gitの練習をしてきます
 hougehoge
 
 kkk
+git rm
